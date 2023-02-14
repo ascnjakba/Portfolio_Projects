@@ -1,1 +1,0 @@
-SELECT * FROM profolio_project.populationvaccinated;
